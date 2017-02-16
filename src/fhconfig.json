@@ -1,7 +1,8 @@
 {
-  "appid": "ahb46afnlrxgxw3ob4vpoolg",
-  "appkey": "e5793c2430ca8214f2641997084001ce4727d358",
+  "appid": "6zllv7o42mshaodhuyujkuoy",
+  "appkey": "54ae22402edf63ef5d4b95fc36ecf4cba6ee2d00",
+  "apptitle": "WFM Demo Mobile App",
   "connectiontag": "0.0.1",
-  "host": "https://wfm.us.demos.redhatmobile.com",
-  "projectid": "ahb46aagzzfecvwll3v53rpx"
+  "host": "https://testing.eu.feedhenry.com",
+  "projectid": "6zllv7id7xa6lqhxzsbr55i4"
 }
